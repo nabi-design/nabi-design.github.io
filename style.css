@@ -81,7 +81,7 @@
 
  form label {
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 10px;
     color: #728639;
  }
 
@@ -90,7 +90,7 @@
     padding: 10px 20px;
     border: none;
     color: white;
-    font-size: 18px;
+    font-size: 10px;
     cursor: pointer;
     border-radius: 5px;
  }
